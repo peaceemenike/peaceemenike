@@ -15,7 +15,7 @@
 
 ## Hi there 👋
 
-I am **YOUR NAME**. I am a frontend developer working in **YOUR LOCATION** and a technical writer.
+I am **Peace**. I am a frontend developer working in **YOUR LOCATION** and a technical writer.
 
 - 🎤 I’m currently working on a playground for Tensorflow.js models.
 - 🌱 I’m currently learning extensive testing of front-end applications.
