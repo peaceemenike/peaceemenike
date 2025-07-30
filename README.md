@@ -16,7 +16,7 @@
 
 ## Hi there 👋
 
-I am **Peace**. I am a frontend developer working in **YOUR LOCATION** and a technical writer.
+I am **Peace**. I am a frontend developer working in **United State** and a technical writer.
 
 - 🎤 An interactive platform using Python and machine learning frameworks to experiment with TensorFlow models and visualize real-time predictions.
 - 🌱 Advanced model evaluation techniques and deployment strategies for production-grade AI systems.
