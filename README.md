@@ -17,14 +17,13 @@
 
 I am **Peace**. I am a frontend developer working in **YOUR LOCATION** and a technical writer.
 
-- 🎤 I’m currently working on a playground for Tensorflow.js models.
-- 🌱 I’m currently learning extensive testing of front-end applications.
-- 🧑‍🤝‍🧑 I’m looking to collaborate on open-source projects.
-- 🤔 I’m open to collaborations on technical writing projects and jobs.
-- 💬 Ask me about any of the projects I have worked on and any frontend-related inquiries.
+- 🎤 An interactive platform using Python and machine learning frameworks to experiment with TensorFlow models and visualize real-time predictions.
+- 🌱 Advanced model evaluation techniques and deployment strategies for production-grade AI systems.
+- 🧑‍🤝‍🧑 Collaborating on open-source data science, machine learning, web applications, and technical writing projects. 
+- 🤔 I’m open to collaborations on technical writing projects and share my projects.
+- 💬 Ask me about any of the projects I have worked on and any Machine learning workflows, frontend engineering, and how to integrate AI into modern applications.
 - 📫 How to reach me: My socials listed at the top of the page.
-- ⚡ Fun fact: I am quite good with handcrafts. I can knit and make beaded accessories.
-
+- ⚡ Fun fact: I have strong skills in handcrafts, particularly sewing, and I am the Founder & CEO of Success_Kiddies Wears, a brand specializing in quality children’s clothing.
 ---
 
 ### 🛠️ Languages & Tools
