@@ -1,8 +1,5 @@
 <!-- Banner Section -->
-<p align="center">
   ![Github profile](/Assests/githubprofile.png)
-</p>
-
 <!-- Social Links -->
 <p align="center">
 <a href="https://linkedin.com/in/peaceemenike"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
