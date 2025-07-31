@@ -1,6 +1,6 @@
 <!-- Banner Section -->
 <p align="center">
-  ![/]
+  ![/]()
 </p>
 
 <!-- Social Links -->
