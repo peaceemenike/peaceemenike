@@ -1,6 +1,6 @@
 <!-- Banner Section -->
 <p align="center">
-  ![Github profile](/peaceemenike/Assests/githubprofile.png)
+  ![Github profile](/Assests/githubprofile.png)
 </p>
 
 <!-- Social Links -->
