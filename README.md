@@ -1,6 +1,6 @@
 <!-- Banner Section -->
 <p align="center">
-  <img src="https://peaceemenike.github.io" alt="banner" />
+  ![/]
 </p>
 
 <!-- Social Links -->
