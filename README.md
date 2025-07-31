@@ -1,5 +1,5 @@
 <!-- Banner Section -->
-  ![Github profile](/Assests/githubprofile.png)
+  ![Readme Banner - peaceemenike.github.io, frontend developer/data scientist, technical writer, HTML, CSS, JavaScript, React, Python, R, SQL, Power BI](/Assets/githubprofile.png)
 <!-- Social Links -->
 <p align="center">
 <a href="https://linkedin.com/in/peaceemenike"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
