@@ -21,7 +21,8 @@ I am **Dr. Peace**! I am a PhD student, frontend developer and Data Scientist wo
 - 🤔 I’m open to collaborations on technical writing projects and share my projects.
 - 💬 Ask me about any of the projects I have worked on and any Machine learning workflows, frontend engineering, and how to integrate AI into modern applications.
 - 📫 How to reach me: My socials listed at the top of the page.
-- ⚡ Fun fact: I have strong skills in handcrafts, particularly sewing, and I am the Founder & CEO of Success_Kiddies Wears, a brand specializing in quality children’s clothing.
+- ⚡ Fun fact: I have strong skills in handcrafts, particularly sewing, and I am the Founder & CEO of Success_Kiddies Wears, a brand specializing in high
+- quality children’s clothing.
 ---
 
 ### 🛠️ Languages & Tools
