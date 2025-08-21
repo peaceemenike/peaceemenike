@@ -18,7 +18,7 @@ I am **Dr. Peace**! I am a PhD student at UDLAP, frontend developer and Data Sci
 - 🎤 An interactive platform using Python and machine learning frameworks to experiment with TensorFlow models and visualize real-time predictions.
 - 🌱 Advanced model evaluation techniques and deployment strategies for production-grade AI systems.
 - 🧑‍🤝‍🧑 Collaborating on open-source data science, machine learning, web applications, and technical writing projects. 
-- 🤔 I’m open to collaborations on technical writing projects and share my projects.
+- 🤔 I’m open to collaborations on machine learning, technical writing projects and share my projects.
 - 💬 Ask me about any of the projects I have worked on and any Machine learning workflows, frontend engineering, and how to integrate AI into modern applications.
 - 📫 How to reach me: My socials listed at the top of the page.
 - ⚡ Fun fact: I have strong skills in handcrafts, particularly sewing, and I am the Founder & CEO of Success_Kiddies Wears, a brand specializing in high quality children’s clothing.
