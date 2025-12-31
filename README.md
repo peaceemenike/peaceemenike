@@ -1,5 +1,5 @@
 <!-- Banner Section -->
-  ![Readme Banner - peaceebika.github.io, frontend developer/data scientist, technical writer, HTML, CSS, JavaScript, React, Python, R, SQL, Power BI](/Assets/githubprofile.png)
+  ![Readme Banner - peaceebika.github.io, frontend developer/data scientist, technical writer, HTML, CSS, JavaScript, React, Python, R, SQL, Power BI](/Assets/githubphoto.png)
 <!-- Social Links -->
 <p align="center">
 <a href="https://linkedin.com/in/peaceebika"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
