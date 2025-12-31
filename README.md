@@ -1,5 +1,6 @@
 <!-- Banner Section -->
-![Readme Banner](./Assets/githubphoto.png)
+![Readme Banner](https://raw.githubusercontent.com/peaceebika/peaceebika/main/Assets/githubphoto.png)
+
 
 <!-- Social Links -->
 <p align="center">
