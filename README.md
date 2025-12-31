@@ -1,6 +1,5 @@
 <!-- Banner Section -->
-  ![Readme Banner - peaceebika.github.io, frontend developer/data scientist, technical writer, HTML, CSS, JavaScript, React, Python, R, SQL, Power BI]![Readme Banner](./Assets/githubphoto.png)
-
+![Readme Banner](./Assets/githubphoto.png)
 
 <!-- Social Links -->
 <p align="center">
