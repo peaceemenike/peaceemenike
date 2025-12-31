@@ -2,10 +2,10 @@
   ![Readme Banner - peaceebika.github.io, frontend developer/data scientist, technical writer, HTML, CSS, JavaScript, React, Python, R, SQL, Power BI](/Assets/githubprofile.png)
 <!-- Social Links -->
 <p align="center">
-<a href="https://linkedin.com/in/peaceemenike"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://codepen.io/peaceemenike"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" /></a>
-  <a href="https://medium.com/@peaceemenike"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
-  <a href="https://hashnode.com/@itspeaceemenike"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
+<a href="https://linkedin.com/in/peaceebika"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://codepen.io/peaceebika"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" /></a>
+  <a href="https://medium.com/@peaceebika"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="https://hashnode.com/@peaceebika"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
 
 </p>
 
