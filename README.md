@@ -1,6 +1,7 @@
 <!-- Banner Section -->
-<img src="https://raw.githubusercontent.com/peaceebika/peaceebika/main/Assets/githubprofile.png" alt="Peace Ebika Banner">
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/peaceebika/peaceebika/main/githubphoto.png" alt="Peace Ebika Banner">
+</p>
 <!-- Social Links -->
 <p align="center">
 <a href="https://linkedin.com/in/peaceebika"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
