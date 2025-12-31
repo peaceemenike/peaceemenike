@@ -1,8 +1,5 @@
 <!-- Banner Section -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/peaceebika/peaceebika/main/Assets/githubphoto.png" alt="Peace Ebika Banner">
-</p>
-
+<img src="https://raw.githubusercontent.com/peaceebika/peaceebika/main/Assets/githubphoto.png" alt="Peace Ebika Banner">
 
 
 <!-- Social Links -->
