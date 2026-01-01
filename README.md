@@ -13,7 +13,7 @@
 
 ---
 
-## Hi there 👋
+## Hi everyone 👋
 
 I am **Dr. Peace**! I am a PhD student at UDLAP, frontend Engineer and Data Scientist working in **United State** and a technical writer.
 
