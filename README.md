@@ -15,12 +15,12 @@
 
 ## Hi everyone 👋
 
-I am **Dr. Peace**! I am a PhD student at UDLAP, frontend Engineer and Data Scientist working in **United State** and a technical writer.
+I am **Dr. Peace**! I am a PhD Researcher at UDLAP, a frontend Engineer, a Data Scientist working in the **United States**, and a technical writer.
 
 - 🎤 An interactive platform using Python and machine learning frameworks to experiment with TensorFlow models and visualize real-time predictions.
 - 🌱 Advanced model evaluation techniques and deployment strategies for production-grade AI systems.
 - 🧑‍🤝‍🧑 Collaborating on open-source data science, machine learning, web applications, and technical writing projects. 
-- 🤔 I’m open to collaborations on machine learning, web design progect etc.
+- 🤔 I’m open to collaborations on machine learning, web design project etc.
 - 💬 Ask me about any of the projects I have worked on and any Machine learning workflows, frontend engineering, and how to integrate AI into modern applications.
 - 📱 How to reach me: My socials are listed at the top of the page.
 - 🎤 I have a youtube channel TechOnline with Peace where I teach Optimization, Python and Artificial Intelligent, I also have an Online course which am developing.
