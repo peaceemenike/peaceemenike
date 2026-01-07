@@ -15,7 +15,7 @@
 
 ## Hi everyone 👋
 
-I am **Dr. Peace**! I am a PhD Researcher at UDLAP, a frontend Engineer, a Data Scientist working in the **United States**, and a technical writer.
+I am **Dr. Peace**! I am a PhD Researcher in Artificial Intelligence & Intelligent Systems at UDLAP, a frontend Engineer, a Data Scientist working in the **United States**, and a technical writer.
 
 - 🎤 An interactive platform using Python and machine learning frameworks to experiment with TensorFlow models and visualize real-time predictions.
 - 🌱 Advanced model evaluation techniques and deployment strategies for production-grade AI systems.
