@@ -13,7 +13,7 @@
 
 ---
 
-## Hi everyone 👋
+## Hi!👋
 
 I am **Dr. Peace**! I am a PhD Researcher in Artificial Intelligence & Intelligent Systems at UDLAP, a frontend Engineer, a Data Scientist working in the **United States**, and a technical writer.
 
