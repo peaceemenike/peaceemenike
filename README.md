@@ -1,8 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=100&pause=1000&center=true&vCenter=true&width=3200&height=170&lines=Hi++%F0%9F%91%8B%2C++I'm+Peace+Ebika!;Data+Scientist+%7C+Content+Creator+%7C+Tech+Educator)](https://git.io/typing-svg)
 <!-- Banner Section -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/peaceebika/peaceebika/main/githubphoto.png" alt="Peace Ebika Banner">
+  <img src="Assets/gif.gif" width="800" />
 </p>
+
 <!-- Social Links -->
 <p align="center">
 <a href="https://linkedin.com/in/peaceebika"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
