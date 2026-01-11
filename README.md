@@ -4,9 +4,11 @@
 
 ### 👩‍💻 About Me
 - 🔹 I’m a Data Scientist & Content Creator  
-- 🎥 YouTube: Start Practicing (2k+ learners)  
-- ⚙️ Big Data, Airflow, Spark, AWS, Data Pipelines  
-- 📩 Reach out: your@email.com  
+- 👨‍💻 I’m a Data Engineer and Content Creator working remotely in the United States and also a PhD Researcher in Artificial Intelligence $ Systems Intelligent at UDLAP
+- 🎥 I run the YouTube channel TechOnline with Peace with 2k+ learners
+- 🛠️ Tech topics I explore: Big Data, Airflow, Spark, Scala, AWS, Data Pipelines
+- 📚 I simplify complex concepts like Python, Matlab, and Excel for all levels
+- 📩 Reach out: emenikepeace77@gmail.com
 
 <br clear="right"/>
 
@@ -17,6 +19,7 @@
   <a href="https://codepen.io/peaceebika"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" /></a>
   <a href="https://medium.com/@peaceebika"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
   <a href="https://hashnode.com/@peaceebika"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
+ <a href="https://www.instagram.com/peaceebika" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 
 </p>
 
