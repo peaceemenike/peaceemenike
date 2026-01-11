@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=850&lines=Hi++%F0%9F%91%8B%2C++I'm+Peace+Ebika!;Data+Scientist+%2F+Software+Engineer+%7C+Content+Creator+%7C+Tech+Educator)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=35&pause=1000&center=true&vCenter=true&width=1500&height=60&lines=Hi++%F0%9F%91%8B%2C++I'm+Peace+Ebika!;Data+Scientist+%2F+Software+Engineer+%7C+Content+Creator+%7C+Tech+Educator)](https://git.io/typing-svg)
 <!-- Banner Section -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/peaceebika/peaceebika/main/githubphoto.png" alt="Peace Ebika Banner">
