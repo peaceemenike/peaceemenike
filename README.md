@@ -38,6 +38,21 @@
 
 </p>
 
+---
+
+### 💬 Fun Fact
+
+> *"Clarity is the proof of understanding."*  
+> That’s the mindset behind how I teach and create data science content in my YouTube tutorials for everyone.
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=peaceebika&label=Profile+Views&color=blue&style=flat-square" />
+</p>
+
+
+
 
 <!--
 **peaceemenike/peaceemenike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
