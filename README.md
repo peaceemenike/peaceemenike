@@ -47,9 +47,16 @@
 
 ---
 
+### 🔥 My Stats
+
+![Snake animation](https://raw.githubusercontent.com/peaceebika/peaceebika/output/github-contribution-grid-snake-dark.svg)
+
+---
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=peaceebika&label=Profile+Views&color=blue&style=flat-square" />
 </p>
+
 
 
 
