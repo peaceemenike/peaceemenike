@@ -6,8 +6,8 @@
 - 🔹 I’m a Data Scientist & Content Creator  
 - 👨‍💻 I’m a Data Engineer and Content Creator working remotely in the United States and also a PhD Researcher in Artificial Intelligence $ Systems Intelligent at UDLAP
 - 🎥 I run the YouTube channel TechOnline with Peace with 2k+ learners
-- 🛠️ Tech topics I explore: Big Data, Airflow, Spark, Scala, AWS, Data Pipelines
-- 📚 I simplify complex concepts like Python, Matlab, and Excel for all levels
+- 🛠️ Tech topics I explore: `Big Data`, `Airflow`, `Spark`, `Scala`, `AWS`, `Data Pipelines`
+- 📚 I simplify complex concepts like `Python`, `Matlab`, and `Excel` for all levels
 - 📩 Reach out: emenikepeace77@gmail.com
 
 <br clear="right"/>
