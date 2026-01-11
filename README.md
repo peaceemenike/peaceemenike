@@ -17,8 +17,8 @@
 - 👨‍💻 I’m a Data Scientist and Content Creator working remotely in United States and a PhD Researcher in Artificial Intelligence & Intelligent Systems at UDLAP.
 - 🎥 I run the YouTube channel Start Practicing with over 2k+ learners
 - 🛠️ Tech topics I explore: Big Data, Airflow, Spark, Scala, AWS, Data Pipelines
-- 📚 I simplify complex concepts like python, matlab for all levels
-- ⚡ Fun fact: I have strong skills in handcrafts, particularly sewing, and I am the Founder & CEO of Success_Kiddies Wears, a brand specializing in high quality children’s and Adult's clothing.
+- 📚 I simplify complex concepts like Python and Matlab for all levels
+- ⚡ Fun fact: I have strong skills in handcraft, particularly sewing, and I am the Founder & CEO of Success_Kiddies Wears, a brand specializing in high quality children’s and Adult's clothing.
 - 📩 Reach out: emenikepeace77@gmail.com
 ---
 
