@@ -3,6 +3,7 @@
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" />
 </p>
+
 ---
 **👩‍💻 About Me**
 - 👨‍💻 I’m a Data Scientist and Content Creator working remotely in United States and a PhD Researcher in Artificial Intelligence & Intelligent Systems at UDLAP.
@@ -11,6 +12,7 @@
 - 📚 I simplify complex concepts like Python and Matlab for all levels
 - ⚡ Fun fact: I have strong skills in handcraft, particularly sewing, and I am the Founder & CEO of Success_Kiddies Wears, a brand specializing in high quality children’s and Adult's clothing.
 - 📩 Reach out: emenikepeace77@gmail.com
+
 ---
 <!-- Social Links -->
 <p align="center">
@@ -20,6 +22,7 @@
   <a href="https://hashnode.com/@peaceebika"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
 
 </p>
+
 ---
 ### 🛠️ Languages & Tools
 
