@@ -3,16 +3,6 @@
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" />
 </p>
-
-<!-- Social Links -->
-<p align="center">
-<a href="https://linkedin.com/in/peaceebika"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://codepen.io/peaceebika"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" /></a>
-  <a href="https://medium.com/@peaceebika"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
-  <a href="https://hashnode.com/@peaceebika"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
-
-</p>
-
 ---
 **👩‍💻 About Me**
 - 👨‍💻 I’m a Data Scientist and Content Creator working remotely in United States and a PhD Researcher in Artificial Intelligence & Intelligent Systems at UDLAP.
@@ -22,7 +12,15 @@
 - ⚡ Fun fact: I have strong skills in handcraft, particularly sewing, and I am the Founder & CEO of Success_Kiddies Wears, a brand specializing in high quality children’s and Adult's clothing.
 - 📩 Reach out: emenikepeace77@gmail.com
 ---
+<!-- Social Links -->
+<p align="center">
+<a href="https://linkedin.com/in/peaceebika"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://codepen.io/peaceebika"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" /></a>
+  <a href="https://medium.com/@peaceebika"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="https://hashnode.com/@peaceebika"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
 
+</p>
+---
 ### 🛠️ Languages & Tools
 
 <p align="center">
