@@ -1,20 +1,13 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=100&pause=1000&center=true&vCenter=true&width=3200&height=170&lines=Hi++%F0%9F%91%8B%2C++I'm+Peace+Ebika!;Data+Scientist+%7C+Content+Creator+%7C+Tech+Educator)](https://git.io/typing-svg)
 <!-- Banner Section -->
-<table width="100%">
-  <tr>
-    <td width="55%" valign="top">
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
+</p>
 
 ### 👩‍💻 About Me
 - I’m a Data Scientist & Content Creator  
 - YouTube: Start Practicing (2k+ learners)  
 - Big Data, Airflow, Spark, AWS  
-
-    </td>
-    <td width="45%" align="center">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
-    </td>
-  </tr>
-</table>
 
 ---
 <!-- Social Links -->
