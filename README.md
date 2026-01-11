@@ -18,14 +18,13 @@
 
 I am **Dr. Peace**! I am a PhD Researcher in Artificial Intelligence & Intelligent Systems at UDLAP, a frontend Engineer, a Data Scientist working in the **United States**, and a technical writer.
 
-- 🎤 An interactive platform using Python and machine learning frameworks to experiment with TensorFlow models and visualize real-time predictions.
-- 🌱 Advanced model evaluation techniques and deployment strategies for production-grade AI systems.
-- 🧑‍🤝‍🧑 Collaborating on open-source data science, machine learning, web applications, and technical writing projects. 
-- 🤔 I’m open to collaborations on machine learning, web design project etc.
-- 💬 Ask me about any of the projects I have worked on and any Machine learning workflows, frontend engineering, and how to integrate AI into modern applications.
-- 📱 How to reach me: My socials are listed at the top of the page.
-- 🎤 I have a Youtube channel, called TechOnlinewithPeace, where I teach Optimization, Python in Data Science, and Artificial Intelligent, I also have an Online course which am developing.
+**👩‍💻 About Me **
+- 👨‍💻 I’m a Data Engineer and Content Creator from India
+- 🎥 I run the YouTube channel Start Practicing with 200k+ learners
+- 🛠️ Tech topics I explore: Big Data, Airflow, Spark, Scala, AWS, Data Pipelines
+- 📚 I simplify complex concepts like Java, DSA, and DBMS for all levels
 - ⚡ Fun fact: I have strong skills in handcrafts, particularly sewing, and I am the Founder & CEO of Success_Kiddies Wears, a brand specializing in high quality children’s and Adult's clothing.
+- 📩 Reach out: emenikepeace77@gmail.com
 ---
 
 ### 🛠️ Languages & Tools
