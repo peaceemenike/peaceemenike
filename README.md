@@ -23,7 +23,7 @@ I am **Dr. Peace**! I am a PhD Researcher in Artificial Intelligence & Intellige
 - 🤔 I’m open to collaborations on machine learning, web design project etc.
 - 💬 Ask me about any of the projects I have worked on and any Machine learning workflows, frontend engineering, and how to integrate AI into modern applications.
 - 📱 How to reach me: My socials are listed at the top of the page.
-- 🎤 I have a Youtube channel, called TechOnlinewithPeace, where I teach Optimization, Python, and Artificial Intelligent, I also have an Online course which am developing.
+- 🎤 I have a Youtube channel, called TechOnlinewithPeace, where I teach Optimization, Python in Data Science, and Artificial Intelligent, I also have an Online course which am developing.
 - ⚡ Fun fact: I have strong skills in handcrafts, particularly sewing, and I am the Founder & CEO of Success_Kiddies Wears, a brand specializing in high quality children’s and Adult's clothing.
 ---
 
