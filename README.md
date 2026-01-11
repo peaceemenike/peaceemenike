@@ -1,17 +1,27 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=100&pause=1000&center=true&vCenter=true&width=3200&height=170&lines=Hi++%F0%9F%91%8B%2C++I'm+Peace+Ebika!;Data+Scientist+%7C+Content+Creator+%7C+Tech+Educator)](https://git.io/typing-svg)
 <!-- Banner Section -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" />
-</p>
+<table>
+  <tr>
+    <!-- LEFT SIDE: TEXT -->
+    <td width="55%" valign="top">
 
----
-**👩‍💻 About Me**
-- 👨‍💻 I’m a Data Scientist and Content Creator working remotely in United States and a PhD Researcher in Artificial Intelligence & Intelligent Systems at UDLAP.
-- 🎥 I run the YouTube channel Start Practicing with over 2k+ learners
-- 🛠️ Tech topics I explore: Big Data, Airflow, Spark, Scala, AWS, Data Pipelines
-- 📚 I simplify complex concepts like Python and Matlab for all levels
-- ⚡ Fun fact: I have strong skills in handcraft, particularly sewing, and I am the Founder & CEO of Success_Kiddies Wears, a brand specializing in high quality children’s and Adult's clothing.
-- 📩 Reach out: emenikepeace77@gmail.com
+### 👩‍💻 About Me
+- 👩‍💻 I'm a Data Scientist and Content Creator working remotely in the United States  
+- 🎥 I run the YouTube channel **Start Practicing** with over 2k+ learners  
+- 🛠 Tech topics: Big Data, Airflow, Spark, Scala, AWS, Data Pipelines  
+- 📚 I simplify Python and Matlab for all levels  
+- 📩 Reach out: **emenikepeace77@gmail.com**
+
+    </td>
+
+    <!-- RIGHT SIDE: IMAGE -->
+    <td width="45%" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" />
+
+
+  </tr>
+</table>
 
 ---
 <!-- Social Links -->
