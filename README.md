@@ -4,7 +4,7 @@
 
 ### 👩‍💻 About Me
 - 🔹 I’m a Data Scientist & Content Creator  
-- 👨‍💻 I’m a Data Scientist and Content Creator working remotely in the United States and also a PhD Researcher in Artificial Intelligence & Systems Intelligent at UDLAP
+- 👨‍💻 I’m a Data Scientist and Content Creator working remotely in the United States and also a PhD Researcher in Artificial Intelligence & Intelligent Systems  at UDLAP
 - 🎥 I run the YouTube channel TechOnline with Peace with 2k+ learners
 - 🛠️ Tech topics I explore: `Big Data`, `Airflow`, `Spark`, `Scala`, `AWS`, `Data Pipelines`
 - 📚 I simplify complex concepts like `Python`, `DSA`, and `DBMS` for all levels
